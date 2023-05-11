@@ -4,12 +4,13 @@ Install docker https://docs.docker.com/get-docker/
 Install WSL https://learn.microsoft.com/de-de/windows/wsl/install | https://learn.microsoft.com/de-de/windows/wsl/about
 
 Setting up WSL:
-1. sudo apt-get install
-2. install php8
-3. install composer
-4. install nodeJs
-5. install php-zip
-6. install 7z-zip 
+1. start Ubuntu bash / sh (or whatever linux dispo you've picked)
+2. sudo apt-get install
+3. install php8
+4. install composer
+5. install nodeJs
+6. install php-zip
+7. install 7z-zip 
 
 Setting up the local Docker Env:
 
